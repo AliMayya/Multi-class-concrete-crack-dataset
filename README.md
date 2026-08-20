@@ -50,4 +50,5 @@ for subfolder in subfolders:
 ## Citation
 **In case any research or paper uses or reuses this dataset, the following citation should be included:
 **
+
 Mayya, A. M., & Alkayem, N. F. (2025). Multi-Class Concrete Defect Classification Using Guided Semantic–Spatial Fusion and Squeeze–Excitation Enhanced DenseNet Model. Materials, 18(24), 5665. https://doi.org/10.3390/ma18245665.
